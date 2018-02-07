@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_string_sponsor_building" table="x_170528_equipment_sponsoredaccountdepartment" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ALX</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb0c17474fc013000ce0c4b18110c7b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:13</sys_updated_on>
+            <value>alx</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BR</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c81c17474fc013000ce0c4b18110c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:13</sys_updated_on>
+            <value>br</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CP</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>481c17474fc013000ce0c4b18110c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:13</sys_updated_on>
+            <value>cp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CRH</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c41c17474fc013000ce0c4b18110c7b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:13</sys_updated_on>
+            <value>crh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CS</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>441c17474fc013000ce0c4b18110c7b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>cs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DCH</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c01c17474fc013000ce0c4b18110c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>dch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DML</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>401c17474fc013000ce0c4b18110c7b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>dml</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DSH</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc1c17474fc013000ce0c4b18110c7b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>dsh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DT</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c1c17474fc013000ce0c4b18110c7b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>dt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FC</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c81c17474fc013000ce0c4b18110c7b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>fc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FLD</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>481c17474fc013000ce0c4b18110c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>fld</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IL</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c41c17474fc013000ce0c4b18110c7bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>il</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JRH</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>441c17474fc013000ce0c4b18110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>jrh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LDC</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c01c17474fc013000ce0c4b18110c7bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>ldc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LOY</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>401c17474fc013000ce0c4b18110c7be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>loy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LS</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>15</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc1c17474fc013000ce0c4b18110c7be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>ls</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MNH</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>16</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c1c17474fc013000ce0c4b18110c7bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>mnh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OCH</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>17</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c81c17474fc013000ce0c4b18110c7c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>och</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OSC</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>18</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>481c17474fc013000ce0c4b18110c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>osc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PA</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>19</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c41c17474fc013000ce0c4b18110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>pa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PCH</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>441c17474fc013000ce0c4b18110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>pch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SCI</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>21</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c01c17474fc013000ce0c4b18110c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>sci</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>STC</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>22</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>401c17474fc013000ce0c4b18110c7c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>stc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TH</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>23</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc1c17474fc013000ce0c4b18110c7c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>th</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WEH</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>24</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c1c17474fc013000ce0c4b18110c7c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>weh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_sponsor_building</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>XJC</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sequence>25</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c81c17474fc013000ce0c4b18110c7c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:14</sys_updated_on>
+            <value>xjc</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_string_sponsor_building</element>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:08:13</sys_created_on>
+            <sys_id>b70c17474fc013000ce0c4b18110c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_string_sponsor_building</sys_name>
+            <sys_package display_value="EquipmentRequest" source="x_170528_equipment">ea8a82434f0013000ce0c4b18110c789</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EquipmentRequest">ea8a82434f0013000ce0c4b18110c789</sys_scope>
+            <sys_update_name>sys_choice_x_170528_equipment_sponsoredaccountdepartment_u_string_sponsor_building</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:08:13</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="SponsoredAccountDepartment" max_length="40" name="x_170528_equipment_sponsoredaccountdepartment" type="collection">
+        <element label="Sponsor's RegisNet ID" max_length="40" name="u_integer_sponsorid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Regis Department" mandatory="true" max_length="40" name="u_string_department" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String (Full UTF-8)" max_length="255" name="u_string_full_utf8_1" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Purpose of this Sponsored Account" mandatory="true" max_length="255" name="u_string_full_utf8_sponsor_purpose" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" default="Account login must be between 3 &amp; 18 characters. No punctuation or special characters" label="Preferred Sponsored Department Login" mandatory="true" max_length="18" name="u_string_requested_login" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Sponsor's Building" mandatory="true" max_length="40" name="u_string_sponsor_building" type="string">
+            <choice>
+                <element label="ALX" sequence="0" value="alx"/>
+                <element label="BR" sequence="1" value="br"/>
+                <element label="CP" sequence="2" value="cp"/>
+                <element label="CRH" sequence="3" value="crh"/>
+                <element label="CS" sequence="4" value="cs"/>
+                <element label="DCH" sequence="5" value="dch"/>
+                <element label="DML" sequence="6" value="dml"/>
+                <element label="DSH" sequence="7" value="dsh"/>
+                <element label="DT" sequence="8" value="dt"/>
+                <element label="FC" sequence="9" value="fc"/>
+                <element label="FLD" sequence="10" value="fld"/>
+                <element label="IL" sequence="11" value="il"/>
+                <element label="JRH" sequence="12" value="jrh"/>
+                <element label="LDC" sequence="13" value="ldc"/>
+                <element label="LOY" sequence="14" value="loy"/>
+                <element label="LS" sequence="15" value="ls"/>
+                <element label="MNH" sequence="16" value="mnh"/>
+                <element label="OCH" sequence="17" value="och"/>
+                <element label="OSC" sequence="18" value="osc"/>
+                <element label="PA" sequence="19" value="pa"/>
+                <element label="PCH" sequence="20" value="pch"/>
+                <element label="SCI" sequence="21" value="sci"/>
+                <element label="STC" sequence="22" value="stc"/>
+                <element label="TH" sequence="23" value="th"/>
+                <element label="WEH" sequence="24" value="weh"/>
+                <element label="XJC" sequence="25" value="xjc"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Sponsor's Mail Code" mandatory="true" max_length="5" name="u_string_sponsor_mail_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sponsor Name" mandatory="true" max_length="40" name="u_string_sponsor_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sponsor's Complete Phone #" mandatory="true" max_length="40" name="u_string_sponsor_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sponsor's Room #" mandatory="true" max_length="40" name="u_string_sponsor_rm" type="string"/>
+    </element>
+</database>

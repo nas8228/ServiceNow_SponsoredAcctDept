@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="EquipmentRequest" max_length="40" name="x_170528_equipment_equipmentrequest" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="255" name="u_string_full_utf8_1" type="string_full_utf8"/>
+    </element>
+</database>

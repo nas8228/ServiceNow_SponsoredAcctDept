@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_string_sponsor_rm" label="Sponsor's Room #" language="en" table="x_170528_equipment_sponsoredaccountdepartment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_sponsor_rm</element>
+            <help/>
+            <hint/>
+            <label>Sponsor's Room #</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <plural>Sponsor's Room #s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:09:54</sys_created_on>
+            <sys_id>e87c1b474fc013000ce0c4b18110c732</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sponsor's Room #</sys_name>
+            <sys_package display_value="EquipmentRequest" source="x_170528_equipment">ea8a82434f0013000ce0c4b18110c789</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EquipmentRequest">ea8a82434f0013000ce0c4b18110c789</sys_scope>
+            <sys_update_name>sys_documentation_x_170528_equipment_sponsoredaccountdepartment_u_string_sponsor_rm_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:09:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

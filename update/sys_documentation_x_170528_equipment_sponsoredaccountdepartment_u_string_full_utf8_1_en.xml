@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_string_full_utf8_1" label="New String (Full UTF-8)" language="en" table="x_170528_equipment_sponsoredaccountdepartment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_full_utf8_1</element>
+            <help/>
+            <hint/>
+            <label>New String (Full UTF-8)</label>
+            <language>en</language>
+            <name>x_170528_equipment_sponsoredaccountdepartment</name>
+            <plural>New String (Full UTF-8)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 18:37:04</sys_created_on>
+            <sys_id>bebb264f4f4013000ce0c4b18110c7df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New String (Full UTF-8)</sys_name>
+            <sys_package display_value="EquipmentRequest" source="x_170528_equipment">ea8a82434f0013000ce0c4b18110c789</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EquipmentRequest">ea8a82434f0013000ce0c4b18110c789</sys_scope>
+            <sys_update_name>sys_documentation_x_170528_equipment_sponsoredaccountdepartment_u_string_full_utf8_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 18:37:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
